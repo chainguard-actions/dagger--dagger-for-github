@@ -1,5 +1,6 @@
 {
   "owner": "dagger",
   "name": "dagger-for-github",
-  "visibility": ""
+  "visibility": "public",
+  "description": "GitHub Action for Dagger"
 }

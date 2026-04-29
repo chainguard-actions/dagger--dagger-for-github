@@ -1,5 +1,7 @@
 # dagger/dagger-for-github
 
+GitHub Action for Dagger
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/dagger/dagger-for-github](https://github.com/dagger/dagger-for-github).
 
 ## Versions
