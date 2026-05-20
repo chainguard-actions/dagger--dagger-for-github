@@ -1,7 +1,0 @@
-{
-  "owner": "dagger",
-  "name": "dagger-for-github",
-  "visibility": "public",
-  "description": "GitHub Action for Dagger",
-  "block_publish": false
-}
